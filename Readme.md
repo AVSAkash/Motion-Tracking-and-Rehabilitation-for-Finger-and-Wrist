@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
 
 # Hand Tracking and Feedback Web App
 
@@ -91,13 +91,7 @@ Open your browser at [http://localhost:5000](http://localhost:5000)
 - Session logs and reports are stored in the `outputs/` folder.
 
 
-## License
 
-Distributed under the **MIT License**.
-
-## Contact
-
-Questions, suggestions, or contributions? Open an issue or contact the maintainer.
 
 <div style="text-align: center">⁂</div>
 
